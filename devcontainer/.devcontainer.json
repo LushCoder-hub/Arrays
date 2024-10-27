@@ -1,0 +1,7 @@
+{
+  "name": "C++ Lab Environment",
+  "image": "mcr.microsoft.com/devcontainers/cpp:latest",
+  "extensions": [
+    "ms-vscode.cpptools"
+  ]
+}
